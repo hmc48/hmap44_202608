@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "geo_44_夜間対応型訪問介護",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "夜間対応型ヘルパーステーション清流苑【夜間対応型訪問介護】大分県大分市大字種具字南谷144番地", "url": "https://www.kaigokensaku.mhlw.go.jp/44/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4490100536-00&ServiceCd=710&Type=search", "url2": "https://seiryu-kyousei.org/" }, "geometry": { "type": "Point", "coordinates": [ 131.699326, 33.2187714 ] } },
+{ "type": "Feature", "properties": { "内容": "中津夜間訪問介護センター【夜間対応型訪問介護】大分県中津市豊田町13-6サンビュー20-B号室", "url": "https://www.kaigokensaku.mhlw.go.jp/44/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4490300169-00&ServiceCd=710&Type=search", "url2": "www.regaroa.net" }, "geometry": { "type": "Point", "coordinates": [ 131.188222084028212, 33.599113853316254 ] } },
+{ "type": "Feature", "properties": { "内容": "夜間訪問サポートセンター三光園【夜間対応型訪問介護】大分県中津市大字上如水字野田1825番地10", "url": "https://www.kaigokensaku.mhlw.go.jp/44/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4490300292-00&ServiceCd=710&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 131.229384, 33.5786678 ] } },
+{ "type": "Feature", "properties": { "内容": "夜間訪問介護ステーションLａ　Vie【夜間対応型訪問介護】大分県中津市上宮永友ノ町11番地3", "url": "https://www.kaigokensaku.mhlw.go.jp/44/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4490300326-00&ServiceCd=710&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 131.185717034070933, 33.591060007107458 ] } },
+{ "type": "Feature", "properties": { "内容": "いずみの園コールセンター【夜間対応型訪問介護】大分県中津市永添2765-147", "url": "https://www.kaigokensaku.mhlw.go.jp/44/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4490300029-00&ServiceCd=710&Type=search", "url2": "http//www.izuminosono.jp" }, "geometry": { "type": "Point", "coordinates": [ 131.200123374750945, 33.560014429791742 ] } },
+{ "type": "Feature", "properties": { "内容": "大久保病院夜間介護センター【夜間対応型訪問介護】大分県竹田市久住町大字栢木6026-2", "url": "https://www.kaigokensaku.mhlw.go.jp/44/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4490800077-00&ServiceCd=710&Type=search", "url2": "http://okubo-hp.com/" }, "geometry": { "type": "Point", "coordinates": [ 131.332312900000034, 33.0577576 ] } }
+]
+}

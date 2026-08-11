@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "geo_44_特定施設入居者生活介護（軽費老人ホーム）",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "ケアハウスアイリス清心園【特定施設入居者生活介護（軽費老人ホーム）】大分県大分市大字横尾4451-19", "url": "https://www.kaigokensaku.mhlw.go.jp/44/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4470105315-00&ServiceCd=332&Type=search", "url2": "http://www.niji-iris.com/" }, "geometry": { "type": "Point", "coordinates": [ 131.64822778623045, 33.216204310972749 ] } },
+{ "type": "Feature", "properties": { "内容": "ケアハウスサンクレールいっとうえん【特定施設入居者生活介護（軽費老人ホーム）】大分県別府市石垣東3丁目1番3号", "url": "https://www.kaigokensaku.mhlw.go.jp/44/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4470203284-00&ServiceCd=332&Type=search", "url2": "http://www.ittouen.or.jp" }, "geometry": { "type": "Point", "coordinates": [ 131.499903600000039, 33.2929108 ] } },
+{ "type": "Feature", "properties": { "内容": "ケアハウス別府石垣園【特定施設入居者生活介護（軽費老人ホーム）】大分県別府市石垣西2丁目1番31号", "url": "https://www.kaigokensaku.mhlw.go.jp/44/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4470202393-00&ServiceCd=332&Type=search", "url2": "https://beppu-ishigakien.jp/" }, "geometry": { "type": "Point", "coordinates": [ 131.495166400000016, 33.2918775 ] } },
+{ "type": "Feature", "properties": { "内容": "特定施設入居者生活介護センター恵幸園【特定施設入居者生活介護（軽費老人ホーム）】大分県別府市小倉町69番1号", "url": "https://www.kaigokensaku.mhlw.go.jp/44/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4470200660-00&ServiceCd=332&Type=search", "url2": "https://keikouen-beppu.com" }, "geometry": { "type": "Point", "coordinates": [ 131.456332709603913, 33.312378983330206 ] } }
+]
+}

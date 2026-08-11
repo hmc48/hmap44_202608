@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "geo_44_短期入所療養介護(療養病床を有する病院等）",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "のつはる診療所【短期入所療養介護(療養病床を有する病院等）】大分県大分市大字野津原906番地の1", "url": "https://www.kaigokensaku.mhlw.go.jp/44/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4410120119-00&ServiceCd=&Type=search", "url2": "https://notsuharu-san-ai.com/" }, "geometry": { "type": "Point", "coordinates": [ 131.530102199999988, 33.1616737 ] } },
+{ "type": "Feature", "properties": { "内容": "ショートステイライフ【短期入所療養介護(療養病床を有する病院等）】大分県中津市山国町守実８０番地の１", "url": "https://www.kaigokensaku.mhlw.go.jp/44/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4470300908-00&ServiceCd=&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 131.042741464417986, 33.403295008487383 ] } },
+{ "type": "Feature", "properties": { "内容": "医）照臨会　佐藤医院【短期入所療養介護(療養病床を有する病院等）】大分県由布市庄内町大龍2164-1", "url": "https://www.kaigokensaku.mhlw.go.jp/44/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4471300212-00&ServiceCd=&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 131.444979399999966, 33.1804608 ] } }
+]
+}
